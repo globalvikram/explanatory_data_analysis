@@ -1,8 +1,8 @@
-##############################################################################
-# load_powcon_data.R - This file will load power consuption dataset.         #
-#                                                                            #
-# Author: Vikram Prasad                                                      #
-##############################################################################
+############################################################################
+# load_powcon_data.R - This file will load power consuption dataset.       #
+#                                                                          #
+# Author: Vikram Prasad                                                    #
+############################################################################
 
 filename <- "./exdata_Fdata_Fhousehold_power_consumption/household_power_consumption.txt"
 data <- read.table(filename,
