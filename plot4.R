@@ -1,8 +1,8 @@
-##############################################################################
-# plot1.R - Create plot for Global Active Power usage for house hold.        #
-#                                                                            #
-# Author: Vikram Prasad                                                      #
-##############################################################################
+#############################################################################
+# plot1.R - Create plot for Global Active Power usage for house hold.       #
+#                                                                           #
+# Author: Vikram Prasad                                                     #
+#############################################################################
 
 if (!"load_data.R" %in% list.files()) {
   setwd("C:/Users/vikram/Desktop/Big Data & Hadoop/Data Science Specialization/CourseraDir")
